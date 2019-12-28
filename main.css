@@ -5,6 +5,7 @@
     font-family: 'Roboto', sans-serif;
     font-size: 1.35em;
     font-style: italic;
+    background-color: #dadada;
 }
 
 body{
@@ -22,4 +23,9 @@ body{
 
 .SocialMedia{
     margin: 50px 50px;
+}
+
+a{
+    text-decoration: none;
+    color:#204969;
 }
