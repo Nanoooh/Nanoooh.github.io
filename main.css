@@ -13,16 +13,16 @@ body{
 }
 
 .name{
-    width: 1400px;
-    margin: 50px 50px;
+    width: 5em;
+    margin: 0.8em 0.8em;
 }
 
 .introduction{
-    margin: 50px 50px;
+    margin: 0.8em 0.8em;
 }
 
 .SocialMedia{
-    margin: 50px 50px;
+    margin: 0.8em 0.8em;
 }
 
 a{
