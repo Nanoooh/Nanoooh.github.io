@@ -5,12 +5,12 @@
     font-family: 'Roboto', sans-serif;
     font-size: 1.35em;
     font-style: italic;
-    background-color: #effffb;
+    background-color: #222831;
 }
 
 body{
-    background-color: #f7f7f7;
-    color: #272727;
+    /* background-color: #f7f7f7; */
+    color: #eeeeee;
 }
 
 .name{
@@ -28,5 +28,5 @@ body{
 
 a{
     text-decoration: none;
-    color:#50d890;
+    color:#d65a31;
 }
